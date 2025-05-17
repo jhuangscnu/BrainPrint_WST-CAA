@@ -18,7 +18,7 @@ Clone this GitHub repository:
 
 ```
 git clone https://github.com/jhuangscnu/BrainPrint_WST-CAA.git
-cd WST-CAA`
+cd WST-CAA
 ```
 
 
@@ -43,6 +43,8 @@ pip install -r WST_CAA.txt
 ```
 
 ### Preprocessing
+
+Modification and refinement of the official preprocessing process based on the FACED dataset
 
 You need to place the downloaded dataset in the corresponding directory(FACED: WST_CAA/Dataset/FACEDDatase; DEAP:WST_CAA/Dataset/DEAPDatase )
 
