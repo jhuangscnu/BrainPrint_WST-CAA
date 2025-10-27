@@ -1,0 +1,11 @@
+Model,Params,Performances on Datasets (%)
+,,DEAP,FACED
+CADCNN,0.062M,90.36,45.73
+CNN_GRU,0.527M,97.66,89.43
+CAADN,0.589M,99.48,97.46
+
+Ablation Result
+Datasets,Performances with Ablation(%)
+,Noabl,AA,CA,CAA
+FACED,97.46,96.14,96.34,95.43
+DEAP,99.48,98.70,97.92,97.66
